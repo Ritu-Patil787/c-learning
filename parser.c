@@ -1,7 +1,11 @@
+// Start of file I want detail of what this file does and what the code is about
+// Keep it simple and to the point
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
+// Why is MAX_LINE set to 256?
 #define MAX_LINE 256
 
 int main() {
