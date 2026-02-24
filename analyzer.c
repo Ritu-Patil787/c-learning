@@ -1,5 +1,9 @@
+// Head and content what code does and what is the expected outcome
+
 #include <stdio.h>
 #include <string.h>
+
+// Attempt to make a function to do the file operation
 
 int main() {
     FILE *file;
